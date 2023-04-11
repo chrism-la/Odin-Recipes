@@ -1,12 +1,16 @@
 .header {
     text-align: center;
-    font-size: 1em;
+    font-size: 5em;
     color: #009;
     text-decoration: underline;
 }
 img {
     max-width: 100%;
     height: auto;
-    border: 5px solid black;
-
+    border: 10px solid blue;
+}
+.body{
+    text-align: center;
+    font-size: 5em;
+    color: #009;
 }
